@@ -3720,3 +3720,4 @@ Updated dependencies to latest versions - update 36
 Improved user interface design - build 897
 Improved user interface design - build 242
 Improved performance optimization - 519
+Improved performance optimization - v9.9.8
