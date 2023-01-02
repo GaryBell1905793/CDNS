@@ -1478,3 +1478,4 @@ Updated configuration settings - 865
 Updated version number - 194
 Improved user interface design - 737
 Fixed code formatting issues - update 27
+Added new feature for better user experience - v3.9.8
