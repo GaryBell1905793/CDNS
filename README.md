@@ -3724,3 +3724,4 @@ Improved performance optimization - v9.9.8
 Refactored code for better maintainability - build 376
 Code cleanup and formatting
 Updated styling and themes - build 793
+Added new feature for better user experience - build 608
