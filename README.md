@@ -1775,3 +1775,4 @@ Fixed typo in documentation - v1.8.3
 Updated README with new instructions - 730
 Code cleanup and formatting
 Updated configuration settings - v5.8.4
+Added detailed comments for clarity
