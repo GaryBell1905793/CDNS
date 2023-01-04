@@ -1771,3 +1771,4 @@ Fixed memory management issue - 859
 Refactored code for better maintainability - 821
 Added input validation - 672
 Updated configuration settings - build 588
+Fixed typo in documentation - v1.8.3
