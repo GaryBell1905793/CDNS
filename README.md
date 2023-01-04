@@ -1773,3 +1773,4 @@ Added input validation - 672
 Updated configuration settings - build 588
 Fixed typo in documentation - v1.8.3
 Updated README with new instructions - 730
+Code cleanup and formatting
