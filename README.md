@@ -1425,3 +1425,4 @@ Code cleanup and formatting - update 11
 Fixed memory management issue - 900
 Updated configuration settings - build 709
 Added new feature for better user experience - build 690
+Fixed memory management issue - v5.9.1
