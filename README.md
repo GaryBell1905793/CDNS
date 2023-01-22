@@ -1082,3 +1082,4 @@ Updated README with new instructions - update 15
 Fixed memory management issue
 Added comprehensive test coverage - build 647
 Updated styling and themes - update 25
+Fixed typo in documentation - v10.3.8
