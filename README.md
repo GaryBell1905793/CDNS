@@ -3325,3 +3325,4 @@ Fixed memory management issue - update 28
 Code cleanup and formatting - 196
 Added proper error handling - 973
 Refactored code for better maintainability - update 6
+Added detailed comments for clarity - v7.1.1
