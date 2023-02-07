@@ -2259,3 +2259,4 @@ Updated styling and themes
 Fixed memory management issue - v9.3.5
 Fixed critical bug in main module - v6.8.0
 Fixed memory management issue
+Updated configuration settings
