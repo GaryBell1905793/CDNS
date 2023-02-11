@@ -3293,3 +3293,4 @@ Updated version number - v9.3.4
 Updated version number
 Fixed typo in documentation - build 589
 Updated version number - update 24
+Added comprehensive test coverage - update 29
