@@ -3295,3 +3295,4 @@ Fixed typo in documentation - build 589
 Updated version number - update 24
 Added comprehensive test coverage - update 29
 Fixed memory management issue - 15
+Fixed memory management issue - update 17
