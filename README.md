@@ -3291,3 +3291,4 @@ Added detailed comments for clarity - v9.7.6
 Code cleanup and formatting - build 996
 Updated version number - v9.3.4
 Updated version number
+Fixed typo in documentation - build 589
