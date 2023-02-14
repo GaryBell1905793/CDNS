@@ -545,3 +545,4 @@ Fixed typo in documentation
 Fixed typo in documentation - 833
 Updated README with new instructions - v9.2.0
 Added detailed comments for clarity - build 994
+Updated dependencies to latest versions - v3.9.9
