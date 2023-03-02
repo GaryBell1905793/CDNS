@@ -684,3 +684,4 @@ Updated styling and themes - 566
 Optimized algorithm for better efficiency
 Updated project documentation - update 27
 Fixed memory management issue
+Updated styling and themes - v2.5.5
