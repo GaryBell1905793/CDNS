@@ -687,3 +687,4 @@ Fixed memory management issue
 Updated styling and themes - v2.5.5
 Updated README with new instructions
 Code cleanup and formatting
+Updated configuration settings - build 613
