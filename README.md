@@ -213,3 +213,4 @@ Fixed code formatting issues - v4.1.5
 Updated README with new instructions - v3.8.6
 Fixed critical bug in main module - build 985
 Updated styling and themes - build 491
+Fixed memory management issue - 202
