@@ -2332,3 +2332,4 @@ Updated styling and themes
 Added comprehensive test coverage
 Updated styling and themes
 Added comprehensive test coverage - v10.9.5
+Added new feature for better user experience - 571
