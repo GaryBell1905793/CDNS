@@ -2337,3 +2337,4 @@ Optimized algorithm for better efficiency - v6.4.0
 Updated version number
 Added input validation - update 18
 Updated configuration settings
+Fixed memory management issue - v9.4.2
