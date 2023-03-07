@@ -1474,3 +1474,4 @@ Updated dependencies to latest versions
 Updated README with new instructions - v3.8.8
 Updated styling and themes - build 624
 Fixed critical bug in main module - 97
+Updated configuration settings - 865
