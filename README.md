@@ -1471,3 +1471,4 @@ Updated README with new instructions
 Updated project documentation - update 50
 Refactored code for better maintainability - update 12
 Updated dependencies to latest versions
+Updated README with new instructions - v3.8.8
