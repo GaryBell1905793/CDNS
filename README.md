@@ -720,3 +720,4 @@ Added comprehensive test coverage - v2.2.5
 Added comprehensive test coverage - 621
 Fixed code formatting issues - update 1
 Updated configuration settings
+Fixed code formatting issues - v8.4.2
