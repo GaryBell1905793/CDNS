@@ -719,3 +719,4 @@ Code cleanup and formatting - 532
 Added comprehensive test coverage - v2.2.5
 Added comprehensive test coverage - 621
 Fixed code formatting issues - update 1
+Updated configuration settings
