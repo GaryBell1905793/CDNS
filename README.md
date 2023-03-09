@@ -2046,3 +2046,4 @@ Added input validation - 898
 Fixed typo in documentation
 Code cleanup and formatting - update 3
 Fixed memory management issue - 902
+Fixed memory management issue - v3.2.0
