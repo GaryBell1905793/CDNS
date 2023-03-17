@@ -3476,3 +3476,4 @@ Fixed typo in documentation - v1.4.1
 Fixed typo in documentation - update 1
 Added input validation - 329
 Improved performance optimization
+Code cleanup and formatting - v6.0.6
