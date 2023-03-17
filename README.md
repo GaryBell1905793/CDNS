@@ -3474,3 +3474,4 @@ Improved user interface design
 Fixed memory management issue - build 309
 Fixed typo in documentation - v1.4.1
 Fixed typo in documentation - update 1
+Added input validation - 329
