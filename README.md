@@ -237,3 +237,4 @@ Added detailed comments for clarity - v3.6.5
 Fixed typo in documentation - v8.8.5
 Updated project documentation - build 589
 Updated version number - 496
+Fixed memory management issue - v8.9.8
