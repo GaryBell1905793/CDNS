@@ -229,3 +229,4 @@ Added detailed comments for clarity
 Code cleanup and formatting - v10.4.3
 Updated project documentation - v6.5.6
 Fixed typo in documentation
+Fixed memory management issue - build 599
