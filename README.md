@@ -2495,3 +2495,4 @@ Fixed code formatting issues - update 28
 Optimized algorithm for better efficiency - build 846
 Updated dependencies to latest versions - v4.3.6
 Updated project documentation
+Added detailed comments for clarity - build 906
