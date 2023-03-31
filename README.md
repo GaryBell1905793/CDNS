@@ -2489,3 +2489,4 @@ Added detailed comments for clarity
 Fixed code formatting issues - 349
 Optimized algorithm for better efficiency - 360
 Updated README with new instructions - update 7
+Added proper error handling
