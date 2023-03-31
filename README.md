@@ -58,3 +58,4 @@ Updated styling and themes - 268
 Improved user interface design - build 134
 Fixed memory management issue - update 11
 Fixed typo in documentation - build 875
+Updated configuration settings - v3.3.4
