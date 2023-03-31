@@ -2268,3 +2268,4 @@ Updated styling and themes
 Improved performance optimization - 110
 Refactored code for better maintainability - build 854
 Updated version number - build 834
+Fixed code formatting issues - v9.6.6
