@@ -2271,3 +2271,4 @@ Updated version number - build 834
 Fixed code formatting issues - v9.6.6
 Updated styling and themes - 41
 Updated configuration settings - update 1
+Updated version number - v5.7.7
