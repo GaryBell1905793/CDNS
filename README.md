@@ -61,3 +61,4 @@ Fixed typo in documentation - build 875
 Updated configuration settings - v3.3.4
 Improved performance optimization - v2.7.0
 Updated README with new instructions - build 694
+Fixed typo in documentation - build 698
