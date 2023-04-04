@@ -2113,3 +2113,4 @@ Updated styling and themes - build 656
 Added new feature for better user experience - update 37
 Fixed code formatting issues - 829
 Updated project documentation - update 31
+Updated README with new instructions - build 987
