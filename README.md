@@ -886,3 +886,4 @@ Improved performance optimization - v9.3.1
 Added new feature for better user experience - 803
 Updated dependencies to latest versions - build 226
 Improved user interface design - v9.6.0
+Updated README with new instructions - update 48
