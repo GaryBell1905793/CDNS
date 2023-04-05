@@ -3631,3 +3631,4 @@ Added proper error handling - v9.7.9
 Updated README with new instructions
 Added proper error handling - v7.6.4
 Refactored code for better maintainability
+Fixed memory management issue - build 365
