@@ -3889,3 +3889,4 @@ Updated README with new instructions - update 39
 Fixed critical bug in main module
 Updated project documentation - update 30
 Added input validation - v3.8.1
+Updated styling and themes - v2.1.5
