@@ -531,3 +531,4 @@ Fixed memory management issue - build 140
 Added proper error handling - v9.0.5
 Added input validation - v3.1.3
 Added proper error handling - 320
+Updated styling and themes - v2.1.1
