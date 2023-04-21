@@ -535,3 +535,4 @@ Updated styling and themes - v2.1.1
 Updated version number - 742
 Added comprehensive test coverage
 Updated version number - update 13
+Fixed memory management issue
