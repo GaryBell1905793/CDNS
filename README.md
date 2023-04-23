@@ -176,3 +176,4 @@ Updated README with new instructions - 620
 Updated dependencies to latest versions - update 10
 Fixed code formatting issues - 190
 Updated project documentation - update 4
+Updated README with new instructions - v8.0.1
