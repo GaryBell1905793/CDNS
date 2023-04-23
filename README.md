@@ -168,3 +168,4 @@ Improved performance optimization - 289
 Updated styling and themes - build 563
 Fixed typo in documentation - 88
 Added new feature for better user experience
+Added comprehensive test coverage - v9.4.6
