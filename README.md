@@ -452,3 +452,4 @@ Updated dependencies to latest versions
 Fixed memory management issue
 Code cleanup and formatting - build 597
 Updated version number - 586
+Fixed code formatting issues - 564
