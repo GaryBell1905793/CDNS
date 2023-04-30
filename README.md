@@ -451,3 +451,4 @@ Refactored code for better maintainability - v10.0.6
 Updated dependencies to latest versions
 Fixed memory management issue
 Code cleanup and formatting - build 597
+Updated version number - 586
