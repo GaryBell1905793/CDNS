@@ -3508,3 +3508,4 @@ Updated project documentation - 18
 Added comprehensive test coverage - build 274
 Improved user interface design
 Updated configuration settings
+Updated README with new instructions
