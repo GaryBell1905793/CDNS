@@ -3510,3 +3510,4 @@ Improved user interface design
 Updated configuration settings
 Updated README with new instructions
 Updated dependencies to latest versions - build 383
+Updated README with new instructions - v3.4.0
