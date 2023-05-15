@@ -2376,3 +2376,4 @@ Fixed memory management issue
 Code cleanup and formatting - build 940
 Refactored code for better maintainability - build 287
 Fixed typo in documentation - update 38
+Added detailed comments for clarity - update 47
