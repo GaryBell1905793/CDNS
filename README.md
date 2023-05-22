@@ -3540,3 +3540,4 @@ Improved performance optimization - 817
 Code cleanup and formatting - v9.2.3
 Fixed code formatting issues
 Updated styling and themes - build 700
+Added detailed comments for clarity - 778
