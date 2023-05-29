@@ -1429,3 +1429,4 @@ Fixed memory management issue - v5.9.1
 Updated dependencies to latest versions - 716
 Updated configuration settings - build 417
 Code cleanup and formatting - build 211
+Fixed code formatting issues - 659
