@@ -2435,3 +2435,4 @@ Added comprehensive test coverage - update 11
 Code cleanup and formatting - 545
 Fixed typo in documentation - 21
 Added comprehensive test coverage - v3.1.9
+Added input validation - v10.8.2
