@@ -1402,3 +1402,4 @@ Updated styling and themes - 113
 Code cleanup and formatting - 841
 Added new feature for better user experience
 Fixed memory management issue - update 33
+Added detailed comments for clarity - v6.2.2
