@@ -119,3 +119,4 @@ Added input validation - v6.9.0
 Refactored code for better maintainability - v1.3.8
 Fixed critical bug in main module - v3.7.6
 Refactored code for better maintainability - 911
+Fixed code formatting issues - v8.0.8
