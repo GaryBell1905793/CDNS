@@ -124,3 +124,4 @@ Fixed typo in documentation - 853
 Updated version number - build 710
 Added detailed comments for clarity - build 903
 Updated version number - update 37
+Added input validation - update 21
