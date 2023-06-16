@@ -3399,3 +3399,4 @@ Added new feature for better user experience - build 297
 Updated dependencies to latest versions
 Updated dependencies to latest versions - 836
 Added detailed comments for clarity
+Fixed code formatting issues - v1.8.9
