@@ -3407,3 +3407,4 @@ Added new feature for better user experience
 Added detailed comments for clarity - v4.7.5
 Updated README with new instructions - update 46
 Updated configuration settings - build 232
+Added input validation - v8.2.4
