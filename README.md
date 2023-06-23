@@ -3395,3 +3395,4 @@ Added comprehensive test coverage - v9.7.8
 Fixed memory management issue - 265
 Fixed memory management issue - update 22
 Refactored code for better maintainability - 407
+Added new feature for better user experience - build 297
