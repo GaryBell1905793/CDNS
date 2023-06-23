@@ -3393,3 +3393,4 @@ Fixed typo in documentation - build 850
 Fixed critical bug in main module - build 192
 Added comprehensive test coverage - v9.7.8
 Fixed memory management issue - 265
+Fixed memory management issue - update 22
