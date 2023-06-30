@@ -614,3 +614,4 @@ Fixed code formatting issues
 Fixed code formatting issues - build 801
 Updated README with new instructions - build 593
 Fixed typo in documentation
+Added new feature for better user experience
