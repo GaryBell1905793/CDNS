@@ -979,3 +979,4 @@ Added new feature for better user experience - 922
 Improved performance optimization - update 12
 Updated styling and themes - v10.2.0
 Optimized algorithm for better efficiency - build 440
+Added detailed comments for clarity - build 520
