@@ -24,3 +24,4 @@ Fixed code formatting issues
 Updated styling and themes - build 793
 Fixed memory management issue - update 17
 Updated configuration settings
+Updated configuration settings - build 500
