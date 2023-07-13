@@ -1529,3 +1529,4 @@ Updated styling and themes
 Code cleanup and formatting - build 917
 Updated README with new instructions - v8.0.3
 Added input validation - update 39
+Added new feature for better user experience - build 778
