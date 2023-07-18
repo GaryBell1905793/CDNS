@@ -2158,3 +2158,4 @@ Fixed memory management issue - update 40
 Updated version number - 311
 Fixed critical bug in main module - update 14
 Refactored code for better maintainability - update 50
+Fixed memory management issue - v4.2.5
