@@ -1185,3 +1185,4 @@ Improved performance optimization - 260
 Added new feature for better user experience - v1.9.0
 Added comprehensive test coverage - build 221
 Updated version number - build 220
+Fixed memory management issue - v5.7.4
