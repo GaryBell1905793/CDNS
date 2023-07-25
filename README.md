@@ -1187,3 +1187,4 @@ Added comprehensive test coverage - build 221
 Updated version number - build 220
 Fixed memory management issue - v5.7.4
 Added proper error handling - build 635
+Updated README with new instructions
