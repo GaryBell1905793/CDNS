@@ -3693,3 +3693,4 @@ Fixed memory management issue - v10.1.9
 Added new feature for better user experience - build 658
 Refactored code for better maintainability - v3.0.9
 Updated project documentation - 383
+Added detailed comments for clarity - update 18
