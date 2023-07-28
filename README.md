@@ -971,3 +971,4 @@ Added input validation
 Fixed critical bug in main module - build 112
 Updated version number - update 45
 Added detailed comments for clarity - 58
+Updated README with new instructions - 367
