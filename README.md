@@ -1707,3 +1707,4 @@ Added input validation
 Refactored code for better maintainability - v3.8.6
 Added proper error handling
 Fixed critical bug in main module - build 356
+Updated README with new instructions - update 41
