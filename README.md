@@ -895,3 +895,4 @@ Fixed typo in documentation - 115
 Added proper error handling
 Updated README with new instructions - v10.6.7
 Updated version number
+Updated version number - build 754
