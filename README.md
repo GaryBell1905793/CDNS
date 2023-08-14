@@ -79,3 +79,4 @@ Added new feature for better user experience - v3.6.6
 Refactored code for better maintainability
 Updated styling and themes
 Refactored code for better maintainability - v4.2.7
+Added new feature for better user experience - v7.4.6
