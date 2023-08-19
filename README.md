@@ -1602,3 +1602,4 @@ Fixed typo in documentation - update 37
 Fixed critical bug in main module - build 178
 Optimized algorithm for better efficiency - build 314
 Optimized algorithm for better efficiency - 988
+Updated README with new instructions - 724
