@@ -399,3 +399,4 @@ Fixed code formatting issues - build 889
 Updated version number - v9.0.8
 Fixed critical bug in main module
 Added new feature for better user experience - v2.0.8
+Fixed critical bug in main module
