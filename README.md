@@ -3953,3 +3953,4 @@ Updated styling and themes - update 29
 Updated project documentation - v4.6.0
 Updated README with new instructions
 Fixed typo in documentation - build 169
+Updated configuration settings - update 4
