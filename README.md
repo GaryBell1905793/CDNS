@@ -2927,3 +2927,4 @@ Fixed code formatting issues - build 129
 Fixed typo in documentation
 Code cleanup and formatting - build 963
 Updated styling and themes - 94
+Added proper error handling - v3.5.8
