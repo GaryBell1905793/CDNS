@@ -179,3 +179,4 @@ Updated project documentation - update 4
 Updated README with new instructions - v8.0.1
 Updated version number - update 11
 Improved user interface design - update 11
+Updated configuration settings
