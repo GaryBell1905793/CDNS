@@ -2504,3 +2504,4 @@ Updated project documentation - 118
 Updated dependencies to latest versions
 Updated project documentation - build 282
 Fixed code formatting issues - update 4
+Fixed memory management issue - update 49
