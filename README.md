@@ -187,3 +187,4 @@ Updated dependencies to latest versions - build 132
 Updated styling and themes - 469
 Fixed typo in documentation - v1.7.6
 Code cleanup and formatting
+Updated styling and themes - v5.7.7
