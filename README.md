@@ -2918,3 +2918,4 @@ Added proper error handling - build 434
 Fixed typo in documentation - v9.7.7
 Fixed typo in documentation
 Updated dependencies to latest versions - build 630
+Refactored code for better maintainability - v3.4.3
