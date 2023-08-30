@@ -185,3 +185,4 @@ Added input validation - 164
 Refactored code for better maintainability
 Updated dependencies to latest versions - build 132
 Updated styling and themes - 469
+Fixed typo in documentation - v1.7.6
