@@ -1517,3 +1517,4 @@ Updated styling and themes - v8.9.6
 Updated version number - v10.2.9
 Refactored code for better maintainability - v2.7.5
 Fixed critical bug in main module
+Added proper error handling - update 9
