@@ -1511,3 +1511,4 @@ Improved performance optimization - v8.5.2
 Updated README with new instructions - build 468
 Optimized algorithm for better efficiency - build 732
 Improved user interface design - build 353
+Fixed memory management issue - build 856
