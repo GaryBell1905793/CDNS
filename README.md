@@ -252,3 +252,4 @@ Updated dependencies to latest versions - update 15
 Added proper error handling
 Code cleanup and formatting
 Added comprehensive test coverage - v9.7.0
+Updated README with new instructions
