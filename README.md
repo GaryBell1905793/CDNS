@@ -2933,3 +2933,4 @@ Refactored code for better maintainability
 Updated dependencies to latest versions
 Updated README with new instructions - v10.6.1
 Updated configuration settings
+Fixed memory management issue - update 28
