@@ -2916,3 +2916,4 @@ Code cleanup and formatting - update 11
 Fixed code formatting issues - build 303
 Added proper error handling - build 434
 Fixed typo in documentation - v9.7.7
+Fixed typo in documentation
