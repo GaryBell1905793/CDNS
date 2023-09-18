@@ -1823,3 +1823,4 @@ Improved user interface design
 Updated configuration settings - build 923
 Updated README with new instructions
 Improved user interface design - v10.0.2
+Updated README with new instructions - build 923
