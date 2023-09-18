@@ -1826,3 +1826,4 @@ Improved user interface design - v10.0.2
 Updated README with new instructions - build 923
 Updated README with new instructions - build 716
 Added comprehensive test coverage - v2.4.1
+Fixed typo in documentation - update 27
