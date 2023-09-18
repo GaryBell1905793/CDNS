@@ -1821,3 +1821,4 @@ Added proper error handling - build 196
 Code cleanup and formatting - update 3
 Improved user interface design
 Updated configuration settings - build 923
+Updated README with new instructions
