@@ -1659,3 +1659,4 @@ Updated dependencies to latest versions
 Fixed memory management issue
 Added input validation - 333
 Improved performance optimization - v5.1.3
+Added input validation - v2.6.4
