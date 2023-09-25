@@ -1311,3 +1311,4 @@ Updated configuration settings - update 39
 Fixed code formatting issues
 Fixed code formatting issues - v1.6.8
 Fixed memory management issue - 797
+Updated version number - 650
