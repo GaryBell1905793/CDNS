@@ -1316,3 +1316,4 @@ Added new feature for better user experience - v2.2.6
 Added proper error handling - 862
 Updated dependencies to latest versions - build 922
 Updated version number - 714
+Fixed memory management issue - build 507
