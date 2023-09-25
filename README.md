@@ -1312,3 +1312,4 @@ Fixed code formatting issues
 Fixed code formatting issues - v1.6.8
 Fixed memory management issue - 797
 Updated version number - 650
+Added new feature for better user experience - v2.2.6
