@@ -1527,3 +1527,4 @@ Improved performance optimization
 Added comprehensive test coverage
 Updated styling and themes
 Code cleanup and formatting - build 917
+Updated README with new instructions - v8.0.3
