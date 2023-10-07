@@ -2149,3 +2149,4 @@ Updated README with new instructions - build 388
 Fixed memory management issue - build 403
 Updated configuration settings - v7.3.2
 Updated version number - 917
+Fixed typo in documentation - 413
