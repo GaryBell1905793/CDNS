@@ -1375,3 +1375,4 @@ Improved performance optimization - v1.2.3
 Refactored code for better maintainability - v3.5.1
 Fixed code formatting issues - v8.9.1
 Code cleanup and formatting - v5.4.0
+Updated README with new instructions - build 454
