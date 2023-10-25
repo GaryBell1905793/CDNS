@@ -1592,3 +1592,4 @@ Updated dependencies to latest versions - update 45
 Added input validation
 Updated dependencies to latest versions - v1.7.1
 Updated dependencies to latest versions - v8.3.3
+Updated version number - v2.6.7
