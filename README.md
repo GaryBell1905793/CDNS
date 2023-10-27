@@ -2852,3 +2852,4 @@ Fixed typo in documentation - 281
 Added input validation - v3.3.9
 Updated configuration settings - 972
 Fixed code formatting issues
+Added detailed comments for clarity
