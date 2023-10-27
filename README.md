@@ -3416,3 +3416,4 @@ Updated styling and themes - v7.2.5
 Fixed memory management issue - build 156
 Fixed memory management issue - 319
 Added input validation
+Updated README with new instructions - build 975
