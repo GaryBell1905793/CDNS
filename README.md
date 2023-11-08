@@ -2367,3 +2367,4 @@ Updated project documentation - v5.3.2
 Updated version number - 372
 Updated configuration settings - build 876
 Updated dependencies to latest versions - build 853
+Added input validation - v7.0.0
