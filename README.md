@@ -2674,3 +2674,4 @@ Improved performance optimization - build 370
 Fixed code formatting issues - v8.5.0
 Code cleanup and formatting - v8.5.0
 Updated styling and themes
+Added proper error handling - build 359
