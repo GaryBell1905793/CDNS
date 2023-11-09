@@ -2993,3 +2993,4 @@ Added proper error handling - 477
 Updated README with new instructions - v2.5.7
 Added input validation
 Fixed memory management issue - 98
+Updated README with new instructions
