@@ -2672,3 +2672,4 @@ Improved performance optimization
 Updated styling and themes - update 9
 Improved performance optimization - build 370
 Fixed code formatting issues - v8.5.0
+Code cleanup and formatting - v8.5.0
