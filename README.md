@@ -2996,3 +2996,4 @@ Fixed memory management issue - 98
 Updated README with new instructions
 Code cleanup and formatting - update 34
 Fixed code formatting issues - update 36
+Updated version number - build 436
