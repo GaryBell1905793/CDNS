@@ -1150,3 +1150,4 @@ Optimized algorithm for better efficiency - v7.5.7
 Updated styling and themes - v2.3.8
 Updated dependencies to latest versions - update 18
 Updated styling and themes - 97
+Added new feature for better user experience - v7.0.0
