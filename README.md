@@ -648,3 +648,4 @@ Fixed memory management issue - 738
 Refactored code for better maintainability - v6.2.8
 Fixed typo in documentation - update 14
 Updated project documentation - update 9
+Added new feature for better user experience - update 20
