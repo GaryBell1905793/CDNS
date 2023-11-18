@@ -3256,3 +3256,4 @@ Added proper error handling
 Updated README with new instructions - v2.1.7
 Added detailed comments for clarity
 Updated configuration settings
+Updated README with new instructions - update 3
