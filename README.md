@@ -963,3 +963,4 @@ Fixed typo in documentation
 Fixed critical bug in main module - v7.2.0
 Updated README with new instructions - 577
 Updated configuration settings - 968
+Improved user interface design
