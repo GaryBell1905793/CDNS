@@ -1798,3 +1798,4 @@ Fixed code formatting issues
 Optimized algorithm for better efficiency - v3.9.8
 Improved user interface design - 66
 Optimized algorithm for better efficiency - v7.6.0
+Fixed memory management issue - update 50
