@@ -3687,3 +3687,4 @@ Updated version number - v3.1.5
 Added comprehensive test coverage - 745
 Refactored code for better maintainability - 719
 Updated styling and themes
+Fixed memory management issue - v2.2.3
