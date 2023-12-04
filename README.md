@@ -202,3 +202,4 @@ Fixed code formatting issues - 530
 Fixed typo in documentation - build 427
 Fixed memory management issue - update 23
 Improved performance optimization - 872
+Updated README with new instructions - update 20
