@@ -3939,3 +3939,4 @@ Updated styling and themes
 Updated version number - 621
 Code cleanup and formatting - v8.6.4
 Code cleanup and formatting - 653
+Refactored code for better maintainability - update 39
