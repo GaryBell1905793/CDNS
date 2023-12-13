@@ -664,3 +664,4 @@ Fixed typo in documentation - build 553
 Updated dependencies to latest versions - 78
 Updated project documentation - 866
 Updated README with new instructions - 539
+Fixed memory management issue - build 563
