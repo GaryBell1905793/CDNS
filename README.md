@@ -659,3 +659,4 @@ Updated project documentation - update 12
 Optimized algorithm for better efficiency
 Updated README with new instructions - update 20
 Optimized algorithm for better efficiency - build 594
+Updated README with new instructions - v6.4.5
