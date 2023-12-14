@@ -3827,3 +3827,4 @@ Updated version number - v4.4.7
 Fixed memory management issue - v2.6.9
 Updated version number - update 18
 Updated configuration settings - update 6
+Fixed critical bug in main module - build 388
