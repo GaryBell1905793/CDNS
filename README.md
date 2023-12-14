@@ -3822,3 +3822,4 @@ Updated README with new instructions - update 30
 Added input validation
 Code cleanup and formatting - build 161
 Added input validation - 302
+Fixed typo in documentation
