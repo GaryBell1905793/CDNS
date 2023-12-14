@@ -3823,3 +3823,4 @@ Added input validation
 Code cleanup and formatting - build 161
 Added input validation - 302
 Fixed typo in documentation
+Updated version number - v4.4.7
