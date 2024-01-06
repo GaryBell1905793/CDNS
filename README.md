@@ -3011,3 +3011,4 @@ Fixed typo in documentation - 653
 Updated project documentation - update 44
 Updated dependencies to latest versions - update 36
 Updated README with new instructions - build 228
+Code cleanup and formatting - v2.5.5
