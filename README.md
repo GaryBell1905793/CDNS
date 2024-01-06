@@ -3012,3 +3012,4 @@ Updated project documentation - update 44
 Updated dependencies to latest versions - update 36
 Updated README with new instructions - build 228
 Code cleanup and formatting - v2.5.5
+Fixed code formatting issues - update 15
