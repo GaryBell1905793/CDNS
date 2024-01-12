@@ -2694,3 +2694,4 @@ Added new feature for better user experience - v9.5.1
 Updated version number - v1.7.0
 Fixed memory management issue - 353
 Added input validation - 228
+Code cleanup and formatting - v7.8.2
