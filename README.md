@@ -116,3 +116,4 @@ Fixed critical bug in main module - update 17
 Refactored code for better maintainability - 609
 Fixed critical bug in main module - 856
 Added input validation - v6.9.0
+Refactored code for better maintainability - v1.3.8
