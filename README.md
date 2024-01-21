@@ -788,3 +788,4 @@ Fixed typo in documentation - v8.0.6
 Added comprehensive test coverage - 951
 Updated version number - update 35
 Added new feature for better user experience
+Fixed code formatting issues - update 42
