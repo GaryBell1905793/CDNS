@@ -1297,3 +1297,4 @@ Fixed critical bug in main module - 171
 Added input validation - v4.0.6
 Updated configuration settings - update 47
 Updated version number - 243
+Fixed critical bug in main module - update 31
