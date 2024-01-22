@@ -1291,3 +1291,4 @@ Updated configuration settings - v6.9.1
 Updated project documentation
 Optimized algorithm for better efficiency - v6.0.5
 Fixed code formatting issues - update 1
+Fixed typo in documentation
