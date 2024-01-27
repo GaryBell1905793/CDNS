@@ -486,3 +486,4 @@ Refactored code for better maintainability - 462
 Fixed critical bug in main module - update 34
 Improved performance optimization - 185
 Updated configuration settings
+Updated README with new instructions
