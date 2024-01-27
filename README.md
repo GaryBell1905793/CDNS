@@ -480,3 +480,4 @@ Fixed code formatting issues - update 11
 Refactored code for better maintainability
 Improved user interface design
 Updated project documentation - 892
+Updated README with new instructions - 587
