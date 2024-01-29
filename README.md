@@ -3356,3 +3356,4 @@ Added detailed comments for clarity - v5.7.8
 Fixed memory management issue
 Updated README with new instructions - v10.2.4
 Fixed memory management issue - build 554
+Added input validation - v6.8.8
