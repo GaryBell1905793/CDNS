@@ -3103,3 +3103,4 @@ Fixed memory management issue
 Optimized algorithm for better efficiency - v5.2.0
 Added proper error handling - build 285
 Updated README with new instructions - 643
+Updated README with new instructions - v4.5.8
