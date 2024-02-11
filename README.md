@@ -2135,3 +2135,4 @@ Added proper error handling - v7.5.4
 Updated styling and themes - build 509
 Added new feature for better user experience - 247
 Updated version number - 435
+Fixed typo in documentation - v5.9.0
