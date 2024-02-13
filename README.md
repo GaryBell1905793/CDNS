@@ -1272,3 +1272,4 @@ Fixed memory management issue - 309
 Fixed code formatting issues - v3.2.4
 Improved performance optimization - v4.0.0
 Refactored code for better maintainability - 252
+Updated README with new instructions - update 11
