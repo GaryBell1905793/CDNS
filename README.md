@@ -1268,3 +1268,4 @@ Added detailed comments for clarity - v4.9.9
 Fixed typo in documentation - 735
 Improved performance optimization - v6.3.8
 Added new feature for better user experience
+Fixed memory management issue - 309
