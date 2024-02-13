@@ -3147,3 +3147,4 @@ Fixed typo in documentation - v4.8.6
 Updated dependencies to latest versions - build 409
 Updated README with new instructions - 249
 Updated version number - build 626
+Updated configuration settings
