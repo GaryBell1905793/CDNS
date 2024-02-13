@@ -1275,3 +1275,4 @@ Refactored code for better maintainability - 252
 Updated README with new instructions - update 11
 Fixed code formatting issues - v5.0.4
 Updated styling and themes - update 31
+Updated version number
