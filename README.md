@@ -1270,3 +1270,4 @@ Improved performance optimization - v6.3.8
 Added new feature for better user experience
 Fixed memory management issue - 309
 Fixed code formatting issues - v3.2.4
+Improved performance optimization - v4.0.0
