@@ -3162,3 +3162,4 @@ Code cleanup and formatting
 Updated styling and themes
 Updated styling and themes - build 955
 Updated README with new instructions - 943
+Updated styling and themes - v6.1.0
