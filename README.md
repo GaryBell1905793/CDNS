@@ -3161,3 +3161,4 @@ Code cleanup and formatting - v4.9.1
 Code cleanup and formatting
 Updated styling and themes
 Updated styling and themes - build 955
+Updated README with new instructions - 943
