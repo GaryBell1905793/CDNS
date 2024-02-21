@@ -373,3 +373,4 @@ Fixed memory management issue - 884
 Refactored code for better maintainability
 Updated dependencies to latest versions - build 454
 Updated version number - update 29
+Code cleanup and formatting - 999
