@@ -3971,3 +3971,4 @@ Added new feature for better user experience
 Added comprehensive test coverage - build 741
 Added new feature for better user experience - 776
 Updated configuration settings - 582
+Updated README with new instructions - build 603
