@@ -3069,3 +3069,4 @@ Fixed code formatting issues
 Fixed memory management issue - v9.4.7
 Improved performance optimization - build 418
 Fixed typo in documentation - 589
+Added proper error handling - v5.0.8
