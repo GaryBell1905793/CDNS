@@ -3077,3 +3077,4 @@ Fixed code formatting issues
 Updated dependencies to latest versions - v9.1.3
 Updated project documentation - v5.8.3
 Fixed typo in documentation - update 39
+Added input validation - v8.7.5
