@@ -2970,3 +2970,4 @@ Added proper error handling - 790
 Updated version number - v3.8.0
 Updated dependencies to latest versions - build 762
 Updated styling and themes - update 2
+Updated configuration settings - update 16
