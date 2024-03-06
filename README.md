@@ -2968,3 +2968,4 @@ Fixed memory management issue - 448
 Updated project documentation - update 37
 Added proper error handling - 790
 Updated version number - v3.8.0
+Updated dependencies to latest versions - build 762
