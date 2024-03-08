@@ -1720,3 +1720,4 @@ Updated styling and themes
 Updated project documentation - 715
 Added detailed comments for clarity
 Optimized algorithm for better efficiency - update 32
+Updated version number - v3.8.7
