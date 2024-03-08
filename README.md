@@ -1724,3 +1724,4 @@ Updated version number - v3.8.7
 Improved performance optimization - update 21
 Improved user interface design - 185
 Fixed code formatting issues - v2.4.1
+Added detailed comments for clarity - 970
