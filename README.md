@@ -3345,3 +3345,4 @@ Code cleanup and formatting - 969
 Added proper error handling - build 883
 Updated version number - update 9
 Updated README with new instructions - update 12
+Fixed memory management issue - v8.2.6
