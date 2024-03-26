@@ -2299,3 +2299,4 @@ Fixed critical bug in main module - build 172
 Updated version number - 984
 Updated styling and themes - v8.1.1
 Added comprehensive test coverage - build 675
+Updated README with new instructions - build 255
