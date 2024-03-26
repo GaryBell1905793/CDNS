@@ -2301,3 +2301,4 @@ Updated styling and themes - v8.1.1
 Added comprehensive test coverage - build 675
 Updated README with new instructions - build 255
 Optimized algorithm for better efficiency - v3.5.6
+Added detailed comments for clarity
