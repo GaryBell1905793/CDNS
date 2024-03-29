@@ -2427,3 +2427,4 @@ Fixed code formatting issues - build 612
 Added detailed comments for clarity - update 19
 Improved user interface design - 76
 Added proper error handling - v9.6.8
+Updated README with new instructions - update 20
