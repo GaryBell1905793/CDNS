@@ -3793,3 +3793,4 @@ Code cleanup and formatting - v1.8.7
 Fixed memory management issue
 Updated project documentation - update 29
 Updated README with new instructions
+Improved user interface design - 693
