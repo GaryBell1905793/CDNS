@@ -900,3 +900,4 @@ Refactored code for better maintainability - build 370
 Added new feature for better user experience - build 411
 Updated dependencies to latest versions - v10.6.1
 Fixed code formatting issues - 453
+Added input validation - v7.7.6
