@@ -414,3 +414,4 @@ Fixed memory management issue - 823
 Updated dependencies to latest versions - build 276
 Improved user interface design - v4.7.6
 Updated dependencies to latest versions
+Updated styling and themes - build 978
