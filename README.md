@@ -898,3 +898,4 @@ Updated version number
 Updated version number - build 754
 Refactored code for better maintainability - build 370
 Added new feature for better user experience - build 411
+Updated dependencies to latest versions - v10.6.1
