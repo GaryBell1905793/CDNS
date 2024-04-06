@@ -1983,3 +1983,4 @@ Fixed critical bug in main module - 876
 Updated version number - build 607
 Fixed memory management issue - update 3
 Updated configuration settings - 297
+Updated README with new instructions
