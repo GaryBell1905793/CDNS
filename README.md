@@ -2459,3 +2459,4 @@ Updated dependencies to latest versions - build 963
 Updated project documentation
 Fixed memory management issue
 Updated dependencies to latest versions - v9.6.0
+Added new feature for better user experience
