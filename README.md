@@ -3203,3 +3203,4 @@ Updated version number - 2
 Added proper error handling - v1.0.1
 Fixed memory management issue - 561
 Updated README with new instructions - 845
+Updated dependencies to latest versions - v7.5.0
