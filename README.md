@@ -3206,3 +3206,4 @@ Updated README with new instructions - 845
 Updated dependencies to latest versions - v7.5.0
 Code cleanup and formatting - update 35
 Fixed code formatting issues - build 616
+Added detailed comments for clarity - update 34
