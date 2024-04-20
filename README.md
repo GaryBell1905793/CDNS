@@ -3202,3 +3202,4 @@ Updated styling and themes
 Updated version number - 2
 Added proper error handling - v1.0.1
 Fixed memory management issue - 561
+Updated README with new instructions - 845
