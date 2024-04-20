@@ -3200,3 +3200,4 @@ Added input validation
 Updated configuration settings
 Updated styling and themes
 Updated version number - 2
+Added proper error handling - v1.0.1
