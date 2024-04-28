@@ -1341,3 +1341,4 @@ Updated README with new instructions
 Fixed code formatting issues
 Added comprehensive test coverage - v3.7.8
 Fixed code formatting issues - v2.8.3
+Fixed code formatting issues - v4.4.2
