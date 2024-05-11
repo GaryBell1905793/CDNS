@@ -3036,3 +3036,4 @@ Updated styling and themes - build 327
 Updated README with new instructions - v9.8.3
 Fixed code formatting issues - 317
 Updated version number - v4.6.8
+Updated styling and themes - v7.0.2
