@@ -140,3 +140,4 @@ Updated configuration settings - 503
 Code cleanup and formatting - update 26
 Updated styling and themes - build 947
 Added input validation - update 31
+Updated README with new instructions - 892
