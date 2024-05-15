@@ -2718,3 +2718,4 @@ Fixed critical bug in main module
 Refactored code for better maintainability
 Fixed memory management issue - 963
 Updated README with new instructions - update 30
+Fixed memory management issue - v2.2.1
