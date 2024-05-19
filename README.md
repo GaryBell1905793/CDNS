@@ -3224,3 +3224,4 @@ Added new feature for better user experience - v6.1.9
 Fixed typo in documentation - build 968
 Optimized algorithm for better efficiency - update 18
 Fixed memory management issue - v5.0.8
+Added proper error handling - v1.6.2
