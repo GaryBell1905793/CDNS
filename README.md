@@ -3486,3 +3486,4 @@ Optimized algorithm for better efficiency
 Added detailed comments for clarity - v9.6.4
 Fixed memory management issue
 Fixed code formatting issues - update 37
+Fixed memory management issue - update 24
