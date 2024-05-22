@@ -3613,3 +3613,4 @@ Updated project documentation - build 570
 Updated version number - 539
 Updated configuration settings - build 870
 Updated project documentation - build 814
+Added detailed comments for clarity - v10.0.5
