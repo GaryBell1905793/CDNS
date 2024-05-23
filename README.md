@@ -1547,3 +1547,4 @@ Added new feature for better user experience
 Added proper error handling
 Fixed memory management issue - update 35
 Added detailed comments for clarity - v5.2.0
+Updated README with new instructions
