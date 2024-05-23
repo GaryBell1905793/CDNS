@@ -1540,3 +1540,4 @@ Fixed typo in documentation - v4.8.5
 Code cleanup and formatting - build 604
 Updated version number
 Refactored code for better maintainability - 163
+Added new feature for better user experience - build 257
