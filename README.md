@@ -3655,3 +3655,4 @@ Updated version number - 984
 Fixed critical bug in main module - build 386
 Updated dependencies to latest versions - v7.5.0
 Fixed critical bug in main module - 518
+Updated configuration settings - update 37
