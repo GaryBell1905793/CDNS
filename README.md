@@ -754,3 +754,4 @@ Improved user interface design - update 7
 Improved user interface design
 Updated README with new instructions - build 148
 Updated styling and themes
+Added detailed comments for clarity
