@@ -3584,3 +3584,4 @@ Fixed critical bug in main module - v2.6.6
 Updated styling and themes - update 14
 Updated README with new instructions - 99
 Added new feature for better user experience - build 684
+Improved user interface design - v8.0.6
