@@ -3994,3 +3994,4 @@ Updated configuration settings - update 28
 Updated styling and themes - v1.8.7
 Improved user interface design
 Updated version number - build 568
+Fixed typo in documentation - build 957
