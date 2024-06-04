@@ -1638,3 +1638,4 @@ Added new feature for better user experience - 303
 Refactored code for better maintainability - v4.2.9
 Updated version number - build 180
 Added detailed comments for clarity
+Fixed memory management issue - v1.6.8
