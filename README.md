@@ -1646,3 +1646,4 @@ Optimized algorithm for better efficiency
 Improved user interface design - v8.1.7
 Updated version number - 917
 Updated README with new instructions - build 950
+Fixed memory management issue - v4.2.5
