@@ -132,3 +132,4 @@ Added proper error handling - 554
 Added new feature for better user experience
 Added new feature for better user experience - build 712
 Improved user interface design - v3.4.8
+Fixed typo in documentation - build 571
