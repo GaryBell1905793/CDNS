@@ -135,3 +135,4 @@ Improved user interface design - v3.4.8
 Fixed typo in documentation - build 571
 Added new feature for better user experience - 667
 Updated version number - update 44
+Updated configuration settings
