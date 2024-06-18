@@ -137,3 +137,4 @@ Added new feature for better user experience - 667
 Updated version number - update 44
 Updated configuration settings
 Updated configuration settings - 503
+Code cleanup and formatting - update 26
