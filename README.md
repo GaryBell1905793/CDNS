@@ -3232,3 +3232,4 @@ Added input validation - v1.4.8
 Updated README with new instructions - 686
 Improved user interface design - 245
 Added proper error handling - 7
+Fixed typo in documentation - v5.0.1
