@@ -3229,3 +3229,4 @@ Updated dependencies to latest versions - build 642
 Improved user interface design - update 29
 Fixed memory management issue - build 950
 Added input validation - v1.4.8
+Updated README with new instructions - 686
