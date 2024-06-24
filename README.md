@@ -396,3 +396,4 @@ Improved performance optimization - build 941
 Added input validation - build 949
 Optimized algorithm for better efficiency - 583
 Fixed code formatting issues - build 889
+Updated version number - v9.0.8
