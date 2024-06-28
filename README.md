@@ -1957,3 +1957,4 @@ Added detailed comments for clarity - 260
 Fixed code formatting issues - 55
 Added new feature for better user experience - build 133
 Added new feature for better user experience - v3.4.3
+Updated version number - v7.3.8
