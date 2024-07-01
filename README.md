@@ -1551,3 +1551,4 @@ Updated README with new instructions
 Added input validation - 209
 Updated styling and themes - update 25
 Added input validation - v6.5.6
+Added detailed comments for clarity - update 26
