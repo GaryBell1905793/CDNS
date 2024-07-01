@@ -1550,3 +1550,4 @@ Added detailed comments for clarity - v5.2.0
 Updated README with new instructions
 Added input validation - 209
 Updated styling and themes - update 25
+Added input validation - v6.5.6
