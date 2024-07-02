@@ -297,3 +297,4 @@ Added new feature for better user experience - 879
 Added input validation - update 43
 Updated dependencies to latest versions - build 109
 Updated dependencies to latest versions - build 984
+Updated README with new instructions - 860
