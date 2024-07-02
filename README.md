@@ -288,3 +288,4 @@ Refactored code for better maintainability
 Updated version number - v3.4.6
 Updated project documentation - update 28
 Fixed typo in documentation
+Updated project documentation - 505
