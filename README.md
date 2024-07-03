@@ -2869,3 +2869,4 @@ Fixed code formatting issues - v1.2.5
 Updated configuration settings
 Fixed memory management issue - 623
 Added new feature for better user experience - v4.2.7
+Fixed memory management issue
