@@ -2872,3 +2872,4 @@ Added new feature for better user experience - v4.2.7
 Fixed memory management issue
 Added input validation - v4.6.9
 Fixed memory management issue - build 870
+Updated version number
