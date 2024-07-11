@@ -3836,3 +3836,4 @@ Fixed typo in documentation
 Updated dependencies to latest versions - 596
 Fixed critical bug in main module
 Fixed typo in documentation - build 277
+Updated README with new instructions
