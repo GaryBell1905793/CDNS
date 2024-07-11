@@ -3837,3 +3837,4 @@ Updated dependencies to latest versions - 596
 Fixed critical bug in main module
 Fixed typo in documentation - build 277
 Updated README with new instructions
+Fixed critical bug in main module - update 20
