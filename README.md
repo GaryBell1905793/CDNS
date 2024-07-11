@@ -3835,3 +3835,4 @@ Updated version number - v7.2.5
 Fixed typo in documentation
 Updated dependencies to latest versions - 596
 Fixed critical bug in main module
+Fixed typo in documentation - build 277
