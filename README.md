@@ -424,3 +424,4 @@ Updated version number - update 49
 Added new feature for better user experience - v4.0.2
 Fixed typo in documentation - update 25
 Added input validation - v1.0.3
+Updated version number - v6.4.0
