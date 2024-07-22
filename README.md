@@ -422,3 +422,4 @@ Added new feature for better user experience
 Fixed code formatting issues - build 254
 Updated version number - update 49
 Added new feature for better user experience - v4.0.2
+Fixed typo in documentation - update 25
