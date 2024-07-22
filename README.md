@@ -1503,3 +1503,4 @@ Updated dependencies to latest versions
 Updated configuration settings
 Updated styling and themes - build 388
 Updated version number - 888
+Added proper error handling - build 329
