@@ -1505,3 +1505,4 @@ Updated styling and themes - build 388
 Updated version number - 888
 Added proper error handling - build 329
 Added input validation - 860
+Fixed code formatting issues - v5.6.6
