@@ -427,3 +427,4 @@ Added input validation - v1.0.3
 Updated version number - v6.4.0
 Added input validation - update 17
 Added proper error handling - update 28
+Added input validation - v7.7.7
