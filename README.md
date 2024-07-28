@@ -461,3 +461,4 @@ Added input validation - update 48
 Updated project documentation - build 916
 Updated configuration settings - build 972
 Added detailed comments for clarity
+Updated README with new instructions - v2.7.5
