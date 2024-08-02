@@ -263,3 +263,4 @@ Updated version number - update 19
 Improved user interface design
 Updated styling and themes - build 750
 Improved user interface design - update 20
+Updated configuration settings - update 28
