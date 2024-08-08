@@ -2242,3 +2242,4 @@ Updated version number
 Improved user interface design - update 44
 Code cleanup and formatting - update 28
 Fixed typo in documentation - 61
+Added comprehensive test coverage - v5.7.9
