@@ -2240,3 +2240,4 @@ Fixed code formatting issues - 840
 Fixed code formatting issues
 Updated version number
 Improved user interface design - update 44
+Code cleanup and formatting - update 28
