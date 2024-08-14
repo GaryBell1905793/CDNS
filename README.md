@@ -1687,3 +1687,4 @@ Improved user interface design - v3.7.8
 Improved performance optimization
 Updated version number
 Updated configuration settings - 863
+Fixed typo in documentation - v9.4.7
