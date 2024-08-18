@@ -3663,3 +3663,4 @@ Fixed code formatting issues - build 411
 Fixed code formatting issues - build 681
 Updated project documentation
 Fixed code formatting issues - v2.3.4
+Added detailed comments for clarity - build 177
