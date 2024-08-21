@@ -93,3 +93,4 @@ Added input validation - v3.5.9
 Fixed typo in documentation - build 659
 Fixed memory management issue - build 482
 Updated version number - 975
+Fixed code formatting issues
