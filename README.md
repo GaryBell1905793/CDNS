@@ -88,3 +88,4 @@ Updated styling and themes
 Added comprehensive test coverage - v7.8.7
 Added comprehensive test coverage - build 948
 Code cleanup and formatting
+Improved user interface design - update 36
