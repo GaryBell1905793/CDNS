@@ -94,3 +94,4 @@ Fixed typo in documentation - build 659
 Fixed memory management issue - build 482
 Updated version number - 975
 Fixed code formatting issues
+Added proper error handling - 699
