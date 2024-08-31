@@ -2825,3 +2825,4 @@ Added new feature for better user experience
 Code cleanup and formatting
 Added new feature for better user experience - update 44
 Optimized algorithm for better efficiency - v10.4.3
+Updated styling and themes - v1.2.0
