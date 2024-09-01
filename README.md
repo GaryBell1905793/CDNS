@@ -10,3 +10,4 @@ Updated styling and themes - build 302
 Added detailed comments for clarity
 Refactored code for better maintainability - update 17
 Refactored code for better maintainability
+Added proper error handling - update 50
