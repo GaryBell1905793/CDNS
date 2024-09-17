@@ -1581,3 +1581,4 @@ Added new feature for better user experience - build 163
 Refactored code for better maintainability - build 227
 Updated version number - update 16
 Updated version number - build 351
+Added proper error handling - build 213
