@@ -1586,3 +1586,4 @@ Fixed memory management issue - 540
 Updated version number - 404
 Added comprehensive test coverage - build 985
 Updated version number - update 4
+Fixed memory management issue - build 493
