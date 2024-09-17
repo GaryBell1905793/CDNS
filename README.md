@@ -1578,3 +1578,4 @@ Added new feature for better user experience
 Updated version number - 322
 Updated styling and themes
 Added new feature for better user experience - build 163
+Refactored code for better maintainability - build 227
