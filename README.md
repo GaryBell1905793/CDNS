@@ -1972,3 +1972,4 @@ Code cleanup and formatting - build 334
 Added new feature for better user experience - 944
 Updated dependencies to latest versions - update 14
 Updated project documentation - build 389
+Fixed critical bug in main module - v8.0.0
