@@ -618,3 +618,4 @@ Added new feature for better user experience
 Updated configuration settings - update 7
 Added new feature for better user experience - 708
 Updated project documentation
+Updated version number
