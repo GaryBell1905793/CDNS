@@ -627,3 +627,4 @@ Optimized algorithm for better efficiency - update 49
 Optimized algorithm for better efficiency - update 35
 Refactored code for better maintainability - 616
 Updated project documentation - build 526
+Fixed memory management issue - v1.5.5
