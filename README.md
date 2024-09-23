@@ -620,3 +620,4 @@ Added new feature for better user experience - 708
 Updated project documentation
 Updated version number
 Fixed code formatting issues - v6.8.7
+Updated version number - v5.3.2
