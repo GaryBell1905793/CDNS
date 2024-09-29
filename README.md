@@ -2659,3 +2659,4 @@ Added input validation
 Refactored code for better maintainability - update 27
 Updated styling and themes - build 861
 Updated version number
+Fixed typo in documentation - v4.7.0
