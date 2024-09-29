@@ -2665,3 +2665,4 @@ Updated styling and themes - v1.6.1
 Updated configuration settings - 703
 Added comprehensive test coverage - 68
 Added comprehensive test coverage - update 46
+Fixed typo in documentation - update 22
