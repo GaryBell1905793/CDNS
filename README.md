@@ -1808,3 +1808,4 @@ Fixed typo in documentation - build 861
 Fixed code formatting issues
 Updated dependencies to latest versions - build 159
 Fixed typo in documentation - 881
+Added proper error handling - 588
