@@ -1811,3 +1811,4 @@ Fixed typo in documentation - 881
 Added proper error handling - 588
 Refactored code for better maintainability
 Updated configuration settings - 521
+Added new feature for better user experience - v1.8.1
