@@ -1161,3 +1161,4 @@ Fixed typo in documentation - v1.3.2
 Updated version number - build 471
 Added new feature for better user experience - update 16
 Fixed critical bug in main module - build 567
+Fixed critical bug in main module - 269
