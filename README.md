@@ -1163,3 +1163,4 @@ Added new feature for better user experience - update 16
 Fixed critical bug in main module - build 567
 Fixed critical bug in main module - 269
 Refactored code for better maintainability - 383
+Added proper error handling - v4.0.9
