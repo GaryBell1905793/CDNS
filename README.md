@@ -2227,3 +2227,4 @@ Fixed code formatting issues - 214
 Updated version number - 339
 Updated configuration settings - build 377
 Optimized algorithm for better efficiency
+Fixed typo in documentation - build 987
