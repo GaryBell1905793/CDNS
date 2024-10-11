@@ -2220,3 +2220,4 @@ Updated dependencies to latest versions - 458
 Updated dependencies to latest versions - update 29
 Updated project documentation - update 2
 Fixed memory management issue - update 21
+Updated version number - v1.4.6
