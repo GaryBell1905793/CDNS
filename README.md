@@ -1960,3 +1960,4 @@ Added new feature for better user experience - v3.4.3
 Updated version number - v7.3.8
 Fixed critical bug in main module
 Updated README with new instructions - v5.9.7
+Updated project documentation - v1.5.0
