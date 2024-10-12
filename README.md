@@ -1963,3 +1963,4 @@ Updated README with new instructions - v5.9.7
 Updated project documentation - v1.5.0
 Optimized algorithm for better efficiency
 Updated configuration settings - update 16
+Updated README with new instructions
