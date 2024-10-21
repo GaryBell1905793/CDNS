@@ -2799,3 +2799,4 @@ Fixed memory management issue - build 676
 Fixed typo in documentation - 977
 Improved performance optimization - v2.8.2
 Fixed code formatting issues - v3.2.5
+Fixed code formatting issues - 481
