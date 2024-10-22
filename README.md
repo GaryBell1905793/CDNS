@@ -747,3 +747,4 @@ Added input validation - update 2
 Fixed typo in documentation - v9.1.3
 Optimized algorithm for better efficiency - update 48
 Optimized algorithm for better efficiency - build 261
+Added input validation - 766
