@@ -744,3 +744,4 @@ Updated version number - update 14
 Refactored code for better maintainability - 821
 Added proper error handling - v5.8.8
 Added input validation - update 2
+Fixed typo in documentation - v9.1.3
