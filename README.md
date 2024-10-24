@@ -76,3 +76,4 @@ Added proper error handling - v3.9.5
 Added input validation - update 24
 Fixed typo in documentation
 Added new feature for better user experience - v3.6.6
+Refactored code for better maintainability
