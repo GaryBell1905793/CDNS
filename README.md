@@ -1616,3 +1616,4 @@ Fixed critical bug in main module - v5.6.4
 Fixed typo in documentation - build 608
 Fixed memory management issue - update 44
 Fixed typo in documentation - v6.4.7
+Fixed critical bug in main module - 664
