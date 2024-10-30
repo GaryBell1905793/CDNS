@@ -3300,3 +3300,4 @@ Added input validation - v7.7.4
 Added proper error handling - 852
 Added new feature for better user experience - 21
 Fixed memory management issue - build 108
+Fixed memory management issue - v8.4.0
