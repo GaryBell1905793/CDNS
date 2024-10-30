@@ -3302,3 +3302,4 @@ Added new feature for better user experience - 21
 Fixed memory management issue - build 108
 Fixed memory management issue - v8.4.0
 Updated project documentation - update 7
+Refactored code for better maintainability
