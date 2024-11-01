@@ -858,3 +858,4 @@ Updated dependencies to latest versions
 Added input validation
 Added detailed comments for clarity - build 574
 Added input validation - 160
+Added new feature for better user experience - v1.3.4
