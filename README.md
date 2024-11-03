@@ -2384,3 +2384,4 @@ Updated README with new instructions - build 116
 Refactored code for better maintainability - build 595
 Code cleanup and formatting - build 419
 Improved user interface design - update 39
+Updated styling and themes - v5.1.0
