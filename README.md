@@ -3764,3 +3764,4 @@ Updated project documentation - build 682
 Fixed typo in documentation - 831
 Updated project documentation - update 31
 Added input validation - v7.1.4
+Fixed code formatting issues - update 31
