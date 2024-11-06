@@ -3844,3 +3844,4 @@ Fixed memory management issue
 Added proper error handling
 Added detailed comments for clarity
 Optimized algorithm for better efficiency - v6.3.1
+Updated README with new instructions
