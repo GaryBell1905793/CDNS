@@ -1851,3 +1851,4 @@ Updated README with new instructions - build 771
 Added new feature for better user experience - 657
 Improved performance optimization - build 786
 Improved user interface design - v1.3.6
+Added new feature for better user experience - 961
