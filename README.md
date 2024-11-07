@@ -1853,3 +1853,4 @@ Improved performance optimization - build 786
 Improved user interface design - v1.3.6
 Added new feature for better user experience - 961
 Fixed code formatting issues - 886
+Updated README with new instructions - build 337
