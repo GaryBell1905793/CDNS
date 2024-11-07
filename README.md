@@ -1855,3 +1855,4 @@ Added new feature for better user experience - 961
 Fixed code formatting issues - 886
 Updated README with new instructions - build 337
 Updated dependencies to latest versions - 53
+Added detailed comments for clarity
