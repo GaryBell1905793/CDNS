@@ -2828,3 +2828,4 @@ Optimized algorithm for better efficiency - v10.4.3
 Updated styling and themes - v1.2.0
 Code cleanup and formatting - build 774
 Updated dependencies to latest versions - v7.5.3
+Updated README with new instructions - update 48
