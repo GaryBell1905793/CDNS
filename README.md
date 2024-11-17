@@ -956,3 +956,4 @@ Updated version number - build 758
 Fixed code formatting issues - v4.2.2
 Updated configuration settings
 Added detailed comments for clarity - update 24
+Fixed memory management issue - build 396
