@@ -344,3 +344,4 @@ Updated version number - 568
 Added new feature for better user experience
 Fixed typo in documentation - v4.3.1
 Added input validation
+Added proper error handling - v4.3.7
