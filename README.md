@@ -339,3 +339,4 @@ Refactored code for better maintainability - v8.6.4
 Code cleanup and formatting - build 361
 Updated version number - v3.2.0
 Updated README with new instructions - 766
+Improved user interface design - v8.9.2
