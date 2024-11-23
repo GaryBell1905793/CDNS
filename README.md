@@ -342,3 +342,4 @@ Updated README with new instructions - 766
 Improved user interface design - v8.9.2
 Updated version number - 568
 Added new feature for better user experience
+Fixed typo in documentation - v4.3.1
