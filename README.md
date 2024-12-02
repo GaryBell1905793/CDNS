@@ -781,3 +781,4 @@ Fixed typo in documentation - 157
 Fixed typo in documentation
 Updated version number - update 34
 Added input validation - 575
+Fixed typo in documentation - 380
