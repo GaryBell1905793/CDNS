@@ -784,3 +784,4 @@ Added input validation - 575
 Fixed typo in documentation - 380
 Updated configuration settings - update 25
 Updated README with new instructions - build 116
+Fixed typo in documentation - v8.0.6
