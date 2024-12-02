@@ -782,3 +782,4 @@ Fixed typo in documentation
 Updated version number - update 34
 Added input validation - 575
 Fixed typo in documentation - 380
+Updated configuration settings - update 25
