@@ -779,3 +779,4 @@ Fixed code formatting issues
 Fixed memory management issue - v2.5.5
 Fixed typo in documentation - 157
 Fixed typo in documentation
+Updated version number - update 34
