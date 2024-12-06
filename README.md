@@ -3964,3 +3964,4 @@ Updated README with new instructions - 377
 Updated version number - v3.8.6
 Fixed memory management issue - update 10
 Added input validation - build 630
+Updated version number
