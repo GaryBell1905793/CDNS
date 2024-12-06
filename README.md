@@ -3959,3 +3959,4 @@ Added input validation - update 8
 Fixed typo in documentation - 450
 Added new feature for better user experience - v8.6.4
 Updated README with new instructions - build 747
+Added comprehensive test coverage - v8.5.1
