@@ -3962,3 +3962,4 @@ Updated README with new instructions - build 747
 Added comprehensive test coverage - v8.5.1
 Updated README with new instructions - 377
 Updated version number - v3.8.6
+Fixed memory management issue - update 10
