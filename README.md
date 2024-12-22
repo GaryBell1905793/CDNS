@@ -642,3 +642,4 @@ Fixed typo in documentation - v3.0.1
 Fixed critical bug in main module - update 12
 Fixed critical bug in main module - build 426
 Refactored code for better maintainability - build 174
+Fixed memory management issue
