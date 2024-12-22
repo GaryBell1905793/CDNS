@@ -638,3 +638,4 @@ Updated README with new instructions - v6.5.5
 Updated version number
 Added input validation
 Refactored code for better maintainability - 692
+Fixed typo in documentation - v3.0.1
