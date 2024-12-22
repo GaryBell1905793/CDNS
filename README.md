@@ -646,3 +646,4 @@ Fixed memory management issue
 Added input validation - v5.4.2
 Fixed memory management issue - 738
 Refactored code for better maintainability - v6.2.8
+Fixed typo in documentation - update 14
