@@ -3878,3 +3878,4 @@ Updated README with new instructions - build 142
 Updated styling and themes - v2.2.6
 Added new feature for better user experience
 Fixed critical bug in main module - 964
+Added detailed comments for clarity
