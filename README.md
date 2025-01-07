@@ -3088,3 +3088,4 @@ Refactored code for better maintainability - build 323
 Updated version number - 894
 Updated project documentation - v4.8.1
 Fixed code formatting issues - build 992
+Added proper error handling - v7.1.0
