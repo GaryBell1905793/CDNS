@@ -1204,3 +1204,4 @@ Added proper error handling - update 39
 Fixed memory management issue - update 5
 Added proper error handling - v7.7.9
 Updated version number - update 31
+Fixed typo in documentation - v1.1.0
