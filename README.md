@@ -3622,3 +3622,4 @@ Added proper error handling - v5.2.5
 Fixed typo in documentation - update 5
 Code cleanup and formatting - v4.6.7
 Fixed typo in documentation - v1.2.4
+Updated dependencies to latest versions
