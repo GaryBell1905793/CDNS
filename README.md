@@ -2788,3 +2788,4 @@ Code cleanup and formatting - update 37
 Improved user interface design - 362
 Added comprehensive test coverage - build 490
 Updated configuration settings - 948
+Updated README with new instructions - v9.6.7
