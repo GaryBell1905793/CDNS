@@ -2792,3 +2792,4 @@ Updated README with new instructions - v9.6.7
 Added detailed comments for clarity - 780
 Updated version number - 259
 Updated project documentation - build 232
+Updated project documentation - v1.2.5
