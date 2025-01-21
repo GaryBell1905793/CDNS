@@ -3592,3 +3592,4 @@ Refactored code for better maintainability
 Code cleanup and formatting - build 403
 Updated dependencies to latest versions - v2.6.4
 Updated README with new instructions - v3.6.7
+Added input validation - v2.9.1
