@@ -3591,3 +3591,4 @@ Added new feature for better user experience - v2.7.2
 Refactored code for better maintainability
 Code cleanup and formatting - build 403
 Updated dependencies to latest versions - v2.6.4
+Updated README with new instructions - v3.6.7
