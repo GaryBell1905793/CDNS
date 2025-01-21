@@ -3594,3 +3594,4 @@ Updated dependencies to latest versions - v2.6.4
 Updated README with new instructions - v3.6.7
 Added input validation - v2.9.1
 Fixed critical bug in main module - build 583
+Added input validation - v1.2.6
