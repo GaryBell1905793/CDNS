@@ -1941,3 +1941,4 @@ Updated version number - 522
 Optimized algorithm for better efficiency
 Optimized algorithm for better efficiency - build 236
 Updated configuration settings - build 807
+Fixed typo in documentation
