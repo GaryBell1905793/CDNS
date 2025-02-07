@@ -2948,3 +2948,4 @@ Added detailed comments for clarity - update 27
 Added detailed comments for clarity
 Fixed code formatting issues - build 673
 Updated version number
+Updated README with new instructions
