@@ -2951,3 +2951,4 @@ Updated version number
 Updated README with new instructions
 Fixed typo in documentation - update 49
 Added input validation - 227
+Fixed critical bug in main module - v4.1.9
