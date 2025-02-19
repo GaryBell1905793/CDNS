@@ -1732,3 +1732,4 @@ Updated README with new instructions
 Fixed memory management issue - v8.1.9
 Added comprehensive test coverage
 Refactored code for better maintainability - update 33
+Fixed memory management issue - 558
