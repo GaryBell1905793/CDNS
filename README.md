@@ -1414,3 +1414,4 @@ Updated styling and themes
 Fixed typo in documentation - v5.8.5
 Updated styling and themes - update 11
 Fixed memory management issue - update 25
+Updated version number - build 547
