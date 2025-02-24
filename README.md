@@ -1752,3 +1752,4 @@ Updated styling and themes
 Improved user interface design - build 511
 Added input validation - v1.7.4
 Updated version number
+Fixed typo in documentation - v3.1.9
