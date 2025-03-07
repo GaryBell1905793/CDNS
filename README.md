@@ -1778,3 +1778,4 @@ Updated configuration settings - v5.8.4
 Added detailed comments for clarity
 Updated styling and themes - build 385
 Updated configuration settings
+Updated styling and themes - v1.6.6
