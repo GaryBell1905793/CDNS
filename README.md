@@ -1246,3 +1246,4 @@ Updated version number - 179
 Updated configuration settings - update 15
 Fixed code formatting issues - 795
 Updated configuration settings - update 45
+Updated README with new instructions
