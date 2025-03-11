@@ -1238,3 +1238,4 @@ Improved performance optimization - v7.9.5
 Added comprehensive test coverage
 Optimized algorithm for better efficiency - update 46
 Updated README with new instructions - 747
+Fixed typo in documentation - v5.8.8
