@@ -1240,3 +1240,4 @@ Optimized algorithm for better efficiency - update 46
 Updated README with new instructions - 747
 Fixed typo in documentation - v5.8.8
 Optimized algorithm for better efficiency
+Fixed critical bug in main module - update 27
