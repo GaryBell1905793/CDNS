@@ -925,3 +925,4 @@ Fixed memory management issue
 Added comprehensive test coverage
 Improved user interface design - v5.4.4
 Added new feature for better user experience
+Updated README with new instructions - v6.8.3
