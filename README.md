@@ -918,3 +918,4 @@ Added proper error handling - v10.1.3
 Optimized algorithm for better efficiency
 Updated styling and themes - 549
 Added proper error handling
+Added proper error handling - v1.9.4
