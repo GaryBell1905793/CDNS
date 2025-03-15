@@ -502,3 +502,4 @@ Added proper error handling - update 33
 Updated dependencies to latest versions - build 272
 Fixed code formatting issues - build 168
 Fixed critical bug in main module - v5.6.3
+Added detailed comments for clarity - v3.8.5
