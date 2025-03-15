@@ -921,3 +921,4 @@ Added proper error handling
 Added proper error handling - v1.9.4
 Updated styling and themes - build 989
 Code cleanup and formatting - build 448
+Fixed memory management issue
