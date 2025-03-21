@@ -329,3 +329,4 @@ Updated project documentation - v6.6.7
 Updated version number - 305
 Added new feature for better user experience
 Optimized algorithm for better efficiency - build 961
+Added new feature for better user experience - 896
