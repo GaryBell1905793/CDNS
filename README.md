@@ -3063,3 +3063,4 @@ Updated README with new instructions
 Updated version number - 725
 Fixed critical bug in main module - v3.6.9
 Optimized algorithm for better efficiency
+Added detailed comments for clarity
