@@ -2350,3 +2350,4 @@ Fixed memory management issue - 477
 Fixed typo in documentation - v3.9.4
 Fixed code formatting issues - build 939
 Updated dependencies to latest versions - 634
+Updated dependencies to latest versions - update 46
