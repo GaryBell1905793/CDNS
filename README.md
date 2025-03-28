@@ -568,3 +568,4 @@ Added input validation - build 590
 Code cleanup and formatting - 76
 Improved user interface design - v8.1.7
 Updated dependencies to latest versions - update 47
+Fixed memory management issue - update 47
