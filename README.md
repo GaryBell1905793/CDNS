@@ -188,3 +188,4 @@ Updated styling and themes - 469
 Fixed typo in documentation - v1.7.6
 Code cleanup and formatting
 Updated styling and themes - v5.7.7
+Added comprehensive test coverage - v3.9.5
