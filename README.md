@@ -195,3 +195,4 @@ Code cleanup and formatting
 Optimized algorithm for better efficiency - 852
 Updated README with new instructions - v3.8.0
 Added new feature for better user experience
+Fixed code formatting issues - v9.7.8
