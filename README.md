@@ -1033,3 +1033,4 @@ Added new feature for better user experience - 463
 Updated dependencies to latest versions - build 528
 Updated dependencies to latest versions - v8.8.0
 Updated styling and themes - build 292
+Fixed memory management issue
