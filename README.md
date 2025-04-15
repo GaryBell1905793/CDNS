@@ -1380,3 +1380,4 @@ Fixed typo in documentation - v7.6.5
 Updated dependencies to latest versions - v7.2.1
 Fixed code formatting issues - build 275
 Updated styling and themes - build 541
+Updated project documentation - v2.4.0
