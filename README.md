@@ -1382,3 +1382,4 @@ Fixed code formatting issues - build 275
 Updated styling and themes - build 541
 Updated project documentation - v2.4.0
 Refactored code for better maintainability
+Updated README with new instructions
