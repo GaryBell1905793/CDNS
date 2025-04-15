@@ -1378,3 +1378,4 @@ Code cleanup and formatting - v5.4.0
 Updated README with new instructions - build 454
 Fixed typo in documentation - v7.6.5
 Updated dependencies to latest versions - v7.2.1
+Fixed code formatting issues - build 275
