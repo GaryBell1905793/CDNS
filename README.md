@@ -914,3 +914,4 @@ Updated dependencies to latest versions - 90
 Updated README with new instructions - update 35
 Added new feature for better user experience - update 34
 Fixed critical bug in main module - update 25
+Added proper error handling - v10.1.3
