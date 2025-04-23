@@ -525,3 +525,4 @@ Updated styling and themes - v4.7.6
 Updated README with new instructions
 Added input validation - update 1
 Updated project documentation - v10.0.6
+Fixed typo in documentation - v9.5.4
