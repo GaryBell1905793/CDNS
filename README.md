@@ -518,3 +518,4 @@ Refactored code for better maintainability - update 28
 Optimized algorithm for better efficiency - update 20
 Updated version number - 892
 Improved user interface design - v10.9.6
+Updated configuration settings - v3.3.0
