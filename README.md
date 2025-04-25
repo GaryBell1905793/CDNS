@@ -3464,3 +3464,4 @@ Updated dependencies to latest versions - v4.2.8
 Updated dependencies to latest versions - build 270
 Fixed typo in documentation - build 676
 Fixed code formatting issues - 361
+Fixed memory management issue - update 9
