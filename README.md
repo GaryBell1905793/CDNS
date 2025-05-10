@@ -3086,3 +3086,4 @@ Updated styling and themes - build 405
 Updated README with new instructions - build 860
 Refactored code for better maintainability - build 323
 Updated version number - 894
+Updated project documentation - v4.8.1
