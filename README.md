@@ -812,3 +812,4 @@ Updated project documentation - build 967
 Code cleanup and formatting - update 33
 Updated styling and themes - 675
 Updated project documentation
+Added input validation - v1.5.5
