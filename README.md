@@ -817,3 +817,4 @@ Updated version number - update 31
 Optimized algorithm for better efficiency - 8
 Updated version number - v3.0.3
 Updated project documentation - 50
+Fixed typo in documentation - 758
