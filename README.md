@@ -1252,3 +1252,4 @@ Optimized algorithm for better efficiency - build 360
 Refactored code for better maintainability - v9.3.8
 Added comprehensive test coverage
 Added comprehensive test coverage - v3.2.7
+Updated README with new instructions
