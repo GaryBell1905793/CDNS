@@ -2069,3 +2069,4 @@ Added input validation
 Updated version number - 499
 Added input validation - 973
 Added proper error handling
+Fixed memory management issue - v9.0.4
