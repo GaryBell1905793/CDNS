@@ -3022,3 +3022,4 @@ Improved performance optimization - v6.4.1
 Added new feature for better user experience - build 136
 Improved performance optimization
 Updated README with new instructions - build 708
+Improved user interface design - v8.7.9
