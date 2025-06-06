@@ -2730,3 +2730,4 @@ Optimized algorithm for better efficiency - update 1
 Improved user interface design
 Updated dependencies to latest versions - update 39
 Fixed typo in documentation - build 985
+Updated README with new instructions - build 896
