@@ -3706,3 +3706,4 @@ Updated styling and themes - update 45
 Code cleanup and formatting - v7.6.0
 Added new feature for better user experience - update 17
 Added input validation - update 2
+Added input validation - v1.9.3
