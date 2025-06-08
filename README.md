@@ -1497,3 +1497,4 @@ Fixed memory management issue - build 921
 Added input validation - build 619
 Updated project documentation - v9.4.5
 Added new feature for better user experience - update 32
+Updated README with new instructions - 949
