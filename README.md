@@ -3701,3 +3701,4 @@ Updated styling and themes - 83
 Updated version number - update 20
 Added detailed comments for clarity
 Code cleanup and formatting
+Updated README with new instructions - 287
