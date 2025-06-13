@@ -668,3 +668,4 @@ Fixed memory management issue - build 563
 Added comprehensive test coverage - build 862
 Fixed memory management issue - v10.9.4
 Updated dependencies to latest versions - 478
+Updated README with new instructions - update 41
