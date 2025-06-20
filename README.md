@@ -439,3 +439,4 @@ Fixed typo in documentation - build 153
 Refactored code for better maintainability
 Refactored code for better maintainability - 643
 Updated project documentation
+Updated styling and themes - build 406
