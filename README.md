@@ -438,3 +438,4 @@ Fixed memory management issue - 313
 Fixed typo in documentation - build 153
 Refactored code for better maintainability
 Refactored code for better maintainability - 643
+Updated project documentation
