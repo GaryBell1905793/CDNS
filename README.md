@@ -1077,3 +1077,4 @@ Fixed typo in documentation
 Updated README with new instructions - update 39
 Fixed memory management issue - update 5
 Fixed memory management issue - v1.2.5
+Refactored code for better maintainability - update 30
