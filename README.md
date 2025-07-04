@@ -1075,3 +1075,4 @@ Refactored code for better maintainability - v2.7.7
 Added detailed comments for clarity - update 49
 Fixed typo in documentation
 Updated README with new instructions - update 39
+Fixed memory management issue - update 5
