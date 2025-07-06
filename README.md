@@ -3055,3 +3055,4 @@ Added new feature for better user experience - update 31
 Updated styling and themes
 Refactored code for better maintainability
 Added input validation - build 629
+Updated README with new instructions - update 13
