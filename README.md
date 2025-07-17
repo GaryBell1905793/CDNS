@@ -1304,3 +1304,4 @@ Added detailed comments for clarity - v5.1.8
 Updated styling and themes - v9.3.6
 Updated version number - v10.0.3
 Updated styling and themes - v8.7.8
+Added input validation - v7.5.2
