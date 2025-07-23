@@ -3985,3 +3985,4 @@ Updated styling and themes
 Fixed typo in documentation - build 376
 Updated styling and themes - update 39
 Fixed critical bug in main module - 995
+Updated dependencies to latest versions - v8.5.5
