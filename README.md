@@ -349,3 +349,4 @@ Fixed code formatting issues
 Updated version number - v6.4.5
 Improved performance optimization - 33
 Updated styling and themes - 431
+Code cleanup and formatting - v8.5.2
