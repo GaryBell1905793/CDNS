@@ -775,3 +775,4 @@ Updated version number - v2.5.7
 Fixed typo in documentation - v5.9.5
 Code cleanup and formatting - v8.0.5
 Updated configuration settings - update 1
+Fixed code formatting issues
