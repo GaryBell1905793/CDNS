@@ -772,3 +772,4 @@ Updated project documentation - build 770
 Improved performance optimization - build 286
 Refactored code for better maintainability - 913
 Updated version number - v2.5.7
+Fixed typo in documentation - v5.9.5
