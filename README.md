@@ -385,3 +385,4 @@ Optimized algorithm for better efficiency - 209
 Updated version number - update 11
 Updated project documentation - update 1
 Refactored code for better maintainability - v5.7.9
+Updated version number - v1.5.1
