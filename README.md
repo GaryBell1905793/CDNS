@@ -386,3 +386,4 @@ Updated version number - update 11
 Updated project documentation - update 1
 Refactored code for better maintainability - v5.7.9
 Updated version number - v1.5.1
+Added comprehensive test coverage - v2.8.0
