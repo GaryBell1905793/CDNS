@@ -3755,3 +3755,4 @@ Code cleanup and formatting - build 546
 Code cleanup and formatting - v4.2.9
 Improved performance optimization - build 509
 Updated version number - build 730
+Fixed typo in documentation - v5.3.5
