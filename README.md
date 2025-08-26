@@ -223,3 +223,4 @@ Updated styling and themes - 349
 Added input validation - 734
 Updated styling and themes - v4.7.4
 Updated styling and themes - v9.9.5
+Fixed memory management issue - update 12
