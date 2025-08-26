@@ -220,3 +220,4 @@ Updated project documentation
 Fixed typo in documentation - 604
 Fixed critical bug in main module - build 141
 Updated styling and themes - 349
+Added input validation - 734
