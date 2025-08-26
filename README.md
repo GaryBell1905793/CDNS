@@ -225,3 +225,4 @@ Updated styling and themes - v4.7.4
 Updated styling and themes - v9.9.5
 Fixed memory management issue - update 12
 Fixed typo in documentation - build 837
+Added detailed comments for clarity
