@@ -2288,3 +2288,4 @@ Code cleanup and formatting - v6.8.0
 Fixed memory management issue
 Added input validation - update 20
 Updated styling and themes - 233
+Updated configuration settings - v8.8.7
