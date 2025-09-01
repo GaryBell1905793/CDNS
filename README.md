@@ -2138,3 +2138,4 @@ Updated version number - 435
 Fixed typo in documentation - v5.9.0
 Fixed memory management issue - 624
 Fixed memory management issue - update 21
+Fixed code formatting issues - update 25
