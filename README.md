@@ -493,3 +493,4 @@ Added input validation - v10.9.3
 Added input validation
 Fixed memory management issue - v9.4.8
 Code cleanup and formatting - update 7
+Fixed memory management issue - v3.1.4
