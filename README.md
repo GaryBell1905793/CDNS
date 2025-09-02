@@ -491,3 +491,4 @@ Updated README with new instructions - update 45
 Refactored code for better maintainability - v6.3.9
 Added input validation - v10.9.3
 Added input validation
+Fixed memory management issue - v9.4.8
