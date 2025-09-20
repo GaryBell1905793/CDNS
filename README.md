@@ -1010,3 +1010,4 @@ Fixed critical bug in main module - update 6
 Updated configuration settings - update 19
 Updated dependencies to latest versions - update 45
 Updated version number - 190
+Added detailed comments for clarity - v6.1.0
