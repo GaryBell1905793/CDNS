@@ -704,3 +704,4 @@ Updated version number - 203
 Updated styling and themes - 993
 Fixed code formatting issues - update 25
 Code cleanup and formatting - v8.8.8
+Added detailed comments for clarity - v8.1.4
