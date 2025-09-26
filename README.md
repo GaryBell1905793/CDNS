@@ -152,3 +152,4 @@ Code cleanup and formatting
 Updated version number - 685
 Updated project documentation
 Updated dependencies to latest versions - build 458
+Refactored code for better maintainability - v1.9.5
