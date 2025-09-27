@@ -3716,3 +3716,4 @@ Fixed memory management issue - update 15
 Updated configuration settings
 Fixed code formatting issues - v10.7.0
 Updated configuration settings - v2.9.9
+Updated dependencies to latest versions - update 36
